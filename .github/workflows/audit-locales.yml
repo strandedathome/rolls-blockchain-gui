@@ -1,6 +1,7 @@
 name: Check npm audit and locales
 
 on:
+  workflow_dispatch: 
   push:
     branches-ignore:
       - 'main'
