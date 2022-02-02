@@ -50,8 +50,8 @@ msgstr "Комбайн - це служба, що працює на пристр�
 msgid "ACTIONS"
 msgstr ""
 
-#: src/electron/main.tsx:475
-#: src/electron/main.tsx:562
+#: src/electron/main.tsx:474
+#: src/electron/main.tsx:561
 msgid "About PecanRolls Blockchain"
 msgstr "Про програму PecanRolls Blockchain"
 
@@ -172,7 +172,7 @@ msgstr ""
 msgid "Are you sure you want to disconnect?"
 msgstr "Ви впевнені, що бажаєте відключитися?"
 
-#: src/electron/main.tsx:197
+#: src/electron/main.tsx:196
 msgid "Are you sure you want to quit? GUI Plotting and farming will stop."
 msgstr "Ви впевнені, що хочете вийти? Засівання та фермерство зупиняться."
 
@@ -403,7 +403,7 @@ msgid "Coloured Coin Options"
 msgstr "Налаштування Кольорової Монети"
 
 #: src/components/plotNFT/PlotNFTAbsorbRewards.tsx:168
-#: src/electron/main.tsx:195
+#: src/electron/main.tsx:194
 #: src/hooks/useAbsorbRewards.tsx:46
 msgid "Confirm"
 msgstr "Підтвердити"
@@ -448,7 +448,7 @@ msgstr "Підключитися до інших вузлів"
 msgid "Connect to pool"
 msgstr ""
 
-#: src/electron/main.tsx:442
+#: src/electron/main.tsx:441
 msgid "Connect with us on Facebook"
 msgstr ""
 
@@ -478,7 +478,7 @@ msgstr "Стан підключення:"
 msgid "Connections"
 msgstr "Підключення"
 
-#: src/electron/main.tsx:382
+#: src/electron/main.tsx:381
 msgid "Contribute on GitHub"
 msgstr "Внести свій внесок на GitHub"
 
@@ -704,11 +704,11 @@ msgstr ""
 #~ msgid "Deleting the key will permanently remove the key from your computer, make sure you have backups. Are you sure you want to continue?"
 #~ msgstr "Видалення ключа призведе до безповоротного його видалення з Вашого комп'ютеру. Переконайтесь, що маєте резервні копії. Ви впевнені, що хочете продовжити?"
 
-#: src/electron/main.tsx:304
+#: src/electron/main.tsx:303
 msgid "Developer"
 msgstr "Розробник"
 
-#: src/electron/main.tsx:307
+#: src/electron/main.tsx:306
 msgid "Developer Tools"
 msgstr "Інструменти розробника"
 
@@ -775,7 +775,7 @@ msgstr "Перетягніть файл резервної копії"
 msgid "Drag and drop your recovery backup file"
 msgstr ""
 
-#: src/electron/main.tsx:263
+#: src/electron/main.tsx:262
 msgid "Edit"
 msgstr "Редагувати"
 
@@ -861,7 +861,7 @@ msgstr ""
 msgid "Failed to update passphrase: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:66
+#: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/wallet/coloured/WalletColoured.tsx:610
 #: src/components/wallet/standard/WalletStandard.tsx:525
 msgid "Farm"
@@ -909,7 +909,7 @@ msgstr ""
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
 msgstr "Фермери заробляють нагороди за блоки і комісії за транзакції додаючи свій вільний дисковий простір у мережу, щоб допомогти забезпечити транзакції. Тут буде Ваша ферма, коли буде додано ділянки. <0>Дізнатися більше</0>"
 
-#: src/components/farm/Farm.tsx:23
+#: src/components/farm/Farm.tsx:22
 #: src/components/farm/FarmerStatus.tsx:18
 #: src/components/farm/card/FarmCardStatus.tsx:62
 #: src/components/plot/PlotStatus.tsx:17
@@ -958,8 +958,8 @@ msgstr "Сума збору"
 #~ msgid "Fees Puzzle Hash"
 #~ msgstr ""
 
-#: src/electron/main.tsx:255
-#: src/electron/main.tsx:509
+#: src/electron/main.tsx:254
+#: src/electron/main.tsx:508
 msgid "File"
 msgstr "Файл"
 
@@ -983,11 +983,11 @@ msgstr "Завершено"
 #~ msgid "Follow on Twitter"
 #~ msgstr "Слідкувати у Twitter"
 
-#: src/electron/main.tsx:426
+#: src/electron/main.tsx:425
 msgid "Follow us on Twitter"
 msgstr ""
 
-#: src/electron/main.tsx:366
+#: src/electron/main.tsx:365
 msgid "Frequently Asked Questions"
 msgstr "Найчастіші питання"
 
@@ -1004,7 +1004,7 @@ msgstr "Повний вузол"
 #~ msgid "Full Node Status"
 #~ msgstr "Full Node Status"
 
-#: src/electron/main.tsx:332
+#: src/electron/main.tsx:331
 msgid "Full Screen"
 msgstr "Повний екран"
 
@@ -1054,7 +1054,7 @@ msgstr "Хеш заголовка"
 msgid "Height"
 msgstr "Висота"
 
-#: src/electron/main.tsx:354
+#: src/electron/main.tsx:353
 msgid "Help"
 msgstr "Допомога"
 
@@ -1171,15 +1171,15 @@ msgstr ""
 msgid "Join a pool and get more consistent ROLLS farming rewards. Create a plot NFT and assign your new plots to a group."
 msgstr ""
 
-#: src/electron/main.tsx:418
+#: src/electron/main.tsx:417
 msgid "Join our Discord Server"
 msgstr ""
 
-#: src/electron/main.tsx:458
+#: src/electron/main.tsx:457
 msgid "Join our Reddit Community"
 msgstr ""
 
-#: src/electron/main.tsx:450
+#: src/electron/main.tsx:449
 msgid "Join our group on Telegram"
 msgstr ""
 
@@ -1191,7 +1191,7 @@ msgstr "K-розмір"
 msgid "Keyring migration failed: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:72
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Ключі"
 
@@ -1391,7 +1391,7 @@ msgid "Nickname"
 msgstr "Прізвисько"
 
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:192
+#: src/electron/main.tsx:191
 msgid "No"
 msgstr "Ні"
 
@@ -1557,11 +1557,11 @@ msgstr "Найбільша висота"
 msgid "Peak Time"
 msgstr "Найбільший час"
 
-#: src/electron/main.tsx:472
+#: src/electron/main.tsx:471
 msgid "PecanRolls"
 msgstr "PecanRolls"
 
-#: src/electron/main.tsx:358
+#: src/electron/main.tsx:357
 msgid "PecanRolls Blockchain Wiki"
 msgstr "PecanRolls Blockchain Wiki"
 
@@ -1780,8 +1780,8 @@ msgid "PlotNFT is transitioning to (target state). This can take a while. Please
 msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
-msgid "Plots"
-msgstr "Ділянки"
+#~ msgid "Plots"
+#~ msgstr "Ділянки"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:22
 msgid "Plots Passed Filter"
@@ -2047,7 +2047,7 @@ msgstr "Оновити ділянки"
 msgid "Relative Lock Height"
 msgstr ""
 
-#: src/electron/main.tsx:374
+#: src/electron/main.tsx:373
 msgid "Release Notes"
 msgstr "Докладно про реліз"
 
@@ -2069,7 +2069,7 @@ msgstr "Видалення"
 msgid "Rename"
 msgstr "Перейменувати"
 
-#: src/electron/main.tsx:393
+#: src/electron/main.tsx:392
 msgid "Report an Issue..."
 msgstr "Повідомити про проблему..."
 
@@ -2217,7 +2217,7 @@ msgstr ""
 msgid "Setting a passphrase is strongly recommended to protect your keys. Are you sure you want to skip setting a passphrase?"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:79
+#: src/components/dashboard/DashboardSideBar.tsx:74
 #: src/components/settings/Settings.tsx:239
 msgid "Settings"
 msgstr ""
@@ -2269,7 +2269,7 @@ msgstr ""
 msgid "Something went wrong"
 msgstr ""
 
-#: src/electron/main.tsx:523
+#: src/electron/main.tsx:522
 msgid "Speech"
 msgstr "Мовлення"
 
@@ -2728,7 +2728,7 @@ msgstr ""
 msgid "Verify Pool Details"
 msgstr ""
 
-#: src/electron/main.tsx:295
+#: src/electron/main.tsx:294
 msgid "View"
 msgstr "Вигляд"
 
@@ -2758,11 +2758,11 @@ msgstr "Переглянути очікувані баланси"
 msgid "View pending balances..."
 msgstr "Переглянути очікувані баланси..."
 
-#: src/electron/main.tsx:410
+#: src/electron/main.tsx:409
 msgid "Visit PecanRolls Website"
 msgstr ""
 
-#: src/electron/main.tsx:434
+#: src/electron/main.tsx:433
 msgid "Visit our YouTube Channel"
 msgstr ""
 
@@ -2876,7 +2876,7 @@ msgstr "Ласкаво просимо! Ці слова використовую�
 msgid "When you receive the setup info packet from your admin, enter it below to complete your Rate Limited Wallet setup:"
 msgstr "Коли ви отримаєте пакет інформації про налаштування від вашого адміністратора, введіть його нижче, щоб завершити налаштування кишені з обмеженням швидкості виведення:"
 
-#: src/electron/main.tsx:340
+#: src/electron/main.tsx:339
 msgid "Window"
 msgstr "Вікно"
 
@@ -2886,7 +2886,7 @@ msgstr "Без комісії"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:35
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:193
+#: src/electron/main.tsx:192
 msgid "Yes"
 msgstr "Так"
 

@@ -15,7 +15,7 @@ export default function FullNodeCardNetworkName() {
   return (
     <FarmCard
       loading={loading}
-      valueColor="textPrimary"
+      valueColor="secondary"
       title={<Trans>Network Name</Trans>}
       value={networkName}
     />

@@ -50,8 +50,8 @@ msgstr "Ο harvester είναι μια υπηρεσία που εκτελείτ�
 msgid "ACTIONS"
 msgstr ""
 
-#: src/electron/main.tsx:475
-#: src/electron/main.tsx:562
+#: src/electron/main.tsx:474
+#: src/electron/main.tsx:561
 msgid "About PecanRolls Blockchain"
 msgstr "Περί PecanRolls Blockchain"
 
@@ -172,7 +172,7 @@ msgstr ""
 msgid "Are you sure you want to disconnect?"
 msgstr "Είστε βέβαιοι οτι θέλετε να αποσυνδεθείτε;"
 
-#: src/electron/main.tsx:197
+#: src/electron/main.tsx:196
 msgid "Are you sure you want to quit? GUI Plotting and farming will stop."
 msgstr "Είστε βέβαιοι ότι θέλετε να σταματήσετε? Το GUI Plotting και το Farming θα σταματήσει."
 
@@ -403,7 +403,7 @@ msgid "Coloured Coin Options"
 msgstr "Επιλογές Χρωματισμένων Νομισμάτων"
 
 #: src/components/plotNFT/PlotNFTAbsorbRewards.tsx:168
-#: src/electron/main.tsx:195
+#: src/electron/main.tsx:194
 #: src/hooks/useAbsorbRewards.tsx:46
 msgid "Confirm"
 msgstr "Επιβεβαίωση"
@@ -448,7 +448,7 @@ msgstr "Σύνδεση με άλλους υπολογιστές"
 msgid "Connect to pool"
 msgstr ""
 
-#: src/electron/main.tsx:442
+#: src/electron/main.tsx:441
 msgid "Connect with us on Facebook"
 msgstr ""
 
@@ -478,7 +478,7 @@ msgstr "Κατάσταση Σύνδεσης:"
 msgid "Connections"
 msgstr "Συνδέσεις"
 
-#: src/electron/main.tsx:382
+#: src/electron/main.tsx:381
 msgid "Contribute on GitHub"
 msgstr "Συμβάλετε στο GitHub"
 
@@ -704,11 +704,11 @@ msgstr ""
 #~ msgid "Deleting the key will permanently remove the key from your computer, make sure you have backups. Are you sure you want to continue?"
 #~ msgstr "Διαγραφή του κλειδιού θα αφαιρέσει μόνιμα το κλειδί από τον υπολογιστή σας, βεβαιωθείτε ότι έχετε αντίγραφο ασφαλείας. Είστε σίγουροι ότι θέλετε να συνεχίσετε;"
 
-#: src/electron/main.tsx:304
+#: src/electron/main.tsx:303
 msgid "Developer"
 msgstr "Προγραμματιστής"
 
-#: src/electron/main.tsx:307
+#: src/electron/main.tsx:306
 msgid "Developer Tools"
 msgstr "Εργαλεία Προγραμματιστή"
 
@@ -775,7 +775,7 @@ msgstr "Σύρετε και αποθέστε το αρχείο αντιγράφ�
 msgid "Drag and drop your recovery backup file"
 msgstr ""
 
-#: src/electron/main.tsx:263
+#: src/electron/main.tsx:262
 msgid "Edit"
 msgstr "Επεξεργασία"
 
@@ -861,7 +861,7 @@ msgstr ""
 msgid "Failed to update passphrase: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:66
+#: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/wallet/coloured/WalletColoured.tsx:610
 #: src/components/wallet/standard/WalletStandard.tsx:525
 msgid "Farm"
@@ -909,7 +909,7 @@ msgstr ""
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
 msgstr "Οι αγρότες κερδίζουν ανταμοιβές και τέλη συναλλαγών δεσμεύοντας ελεύθερο χώρο στο δίκτυο για να βοηθήσουν στην ασφάλεια των συναλλαγών. Εδώ θα είναι το αγρόκτημά σας μόλις προσθέσετε ένα οικόπεδο. <0>Μάθετε περισσότερα</0>"
 
-#: src/components/farm/Farm.tsx:23
+#: src/components/farm/Farm.tsx:22
 #: src/components/farm/FarmerStatus.tsx:18
 #: src/components/farm/card/FarmCardStatus.tsx:62
 #: src/components/plot/PlotStatus.tsx:17
@@ -958,8 +958,8 @@ msgstr "Ποσό Τέλων"
 #~ msgid "Fees Puzzle Hash"
 #~ msgstr ""
 
-#: src/electron/main.tsx:255
-#: src/electron/main.tsx:509
+#: src/electron/main.tsx:254
+#: src/electron/main.tsx:508
 msgid "File"
 msgstr "Αρχείο"
 
@@ -983,11 +983,11 @@ msgstr "Ολοκληρώθηκε"
 #~ msgid "Follow on Twitter"
 #~ msgstr "Ακολουθήστε μας στο Τwitter"
 
-#: src/electron/main.tsx:426
+#: src/electron/main.tsx:425
 msgid "Follow us on Twitter"
 msgstr ""
 
-#: src/electron/main.tsx:366
+#: src/electron/main.tsx:365
 msgid "Frequently Asked Questions"
 msgstr "Συχνές ερωτήσεις"
 
@@ -1004,7 +1004,7 @@ msgstr "Πλήρης Κόμβος"
 #~ msgid "Full Node Status"
 #~ msgstr "Full Node Status"
 
-#: src/electron/main.tsx:332
+#: src/electron/main.tsx:331
 msgid "Full Screen"
 msgstr "Πλήρης Οθόνη"
 
@@ -1054,7 +1054,7 @@ msgstr "Header Hash"
 msgid "Height"
 msgstr "Ύψος"
 
-#: src/electron/main.tsx:354
+#: src/electron/main.tsx:353
 msgid "Help"
 msgstr "Βοήθεια"
 
@@ -1171,15 +1171,15 @@ msgstr ""
 msgid "Join a pool and get more consistent ROLLS farming rewards. Create a plot NFT and assign your new plots to a group."
 msgstr ""
 
-#: src/electron/main.tsx:418
+#: src/electron/main.tsx:417
 msgid "Join our Discord Server"
 msgstr ""
 
-#: src/electron/main.tsx:458
+#: src/electron/main.tsx:457
 msgid "Join our Reddit Community"
 msgstr ""
 
-#: src/electron/main.tsx:450
+#: src/electron/main.tsx:449
 msgid "Join our group on Telegram"
 msgstr ""
 
@@ -1191,7 +1191,7 @@ msgstr "K-Size"
 msgid "Keyring migration failed: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:72
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Κλειδιά"
 
@@ -1391,7 +1391,7 @@ msgid "Nickname"
 msgstr "Ψευδώνυμο"
 
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:192
+#: src/electron/main.tsx:191
 msgid "No"
 msgstr "Όχι"
 
@@ -1557,11 +1557,11 @@ msgstr "Peak Height"
 msgid "Peak Time"
 msgstr "Peak Time"
 
-#: src/electron/main.tsx:472
+#: src/electron/main.tsx:471
 msgid "PecanRolls"
 msgstr "PecanRolls"
 
-#: src/electron/main.tsx:358
+#: src/electron/main.tsx:357
 msgid "PecanRolls Blockchain Wiki"
 msgstr "PecanRolls Blockchain Wiki"
 
@@ -1780,8 +1780,8 @@ msgid "PlotNFT is transitioning to (target state). This can take a while. Please
 msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
-msgid "Plots"
-msgstr "Plots"
+#~ msgid "Plots"
+#~ msgstr "Plots"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:22
 msgid "Plots Passed Filter"
@@ -2047,7 +2047,7 @@ msgstr "Ανανέωση Plots"
 msgid "Relative Lock Height"
 msgstr ""
 
-#: src/electron/main.tsx:374
+#: src/electron/main.tsx:373
 msgid "Release Notes"
 msgstr "Τι νέο υπάρχει"
 
@@ -2069,7 +2069,7 @@ msgstr "Αφαιρείται"
 msgid "Rename"
 msgstr "Μετονομασία"
 
-#: src/electron/main.tsx:393
+#: src/electron/main.tsx:392
 msgid "Report an Issue..."
 msgstr "Αναφορά προβλήματος..."
 
@@ -2217,7 +2217,7 @@ msgstr ""
 msgid "Setting a passphrase is strongly recommended to protect your keys. Are you sure you want to skip setting a passphrase?"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:79
+#: src/components/dashboard/DashboardSideBar.tsx:74
 #: src/components/settings/Settings.tsx:239
 msgid "Settings"
 msgstr ""
@@ -2269,7 +2269,7 @@ msgstr ""
 msgid "Something went wrong"
 msgstr ""
 
-#: src/electron/main.tsx:523
+#: src/electron/main.tsx:522
 msgid "Speech"
 msgstr "Speech"
 
@@ -2728,7 +2728,7 @@ msgstr ""
 msgid "Verify Pool Details"
 msgstr ""
 
-#: src/electron/main.tsx:295
+#: src/electron/main.tsx:294
 msgid "View"
 msgstr "Εμφάνιση"
 
@@ -2758,11 +2758,11 @@ msgstr "Προβολή εκκρεμών υπολοίπων"
 msgid "View pending balances..."
 msgstr "Προβολή εκκρεμών υπολοίπων..."
 
-#: src/electron/main.tsx:410
+#: src/electron/main.tsx:409
 msgid "Visit PecanRolls Website"
 msgstr ""
 
-#: src/electron/main.tsx:434
+#: src/electron/main.tsx:433
 msgid "Visit our YouTube Channel"
 msgstr ""
 
@@ -2876,7 +2876,7 @@ msgstr "Καλώς ορίσατε! Οι ακόλουθες λέξεις χρησ
 msgid "When you receive the setup info packet from your admin, enter it below to complete your Rate Limited Wallet setup:"
 msgstr "Όταν λαμβάνετε το πακέτο πληροφοριών εγκατάστασης από τον διαχειριστή σας, πληκτρολογήστε το παρακάτω για να ολοκληρώσετε την εγκατάσταση του Rate Limited Wallet:"
 
-#: src/electron/main.tsx:340
+#: src/electron/main.tsx:339
 msgid "Window"
 msgstr "Παράθυρο"
 
@@ -2886,7 +2886,7 @@ msgstr "Χωρίς Χρεώσεις"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:35
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:193
+#: src/electron/main.tsx:192
 msgid "Yes"
 msgstr "Ναι"
 

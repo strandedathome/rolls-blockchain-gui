@@ -50,8 +50,8 @@ msgstr "En skördare är en tjänst som körs på en maskin där plottar lagras.
 msgid "ACTIONS"
 msgstr ""
 
-#: src/electron/main.tsx:475
-#: src/electron/main.tsx:562
+#: src/electron/main.tsx:474
+#: src/electron/main.tsx:561
 msgid "About PecanRolls Blockchain"
 msgstr "Om PecanRolls Blockchain"
 
@@ -172,7 +172,7 @@ msgstr "Är du säker på att du vill radera obekräftade transaktioner?"
 msgid "Are you sure you want to disconnect?"
 msgstr "Är det säkert att du vill koppla ifrån?"
 
-#: src/electron/main.tsx:197
+#: src/electron/main.tsx:196
 msgid "Are you sure you want to quit? GUI Plotting and farming will stop."
 msgstr "Är det säkert att du vill stänga av? Plottning och odling i GUI kommer att stoppas."
 
@@ -403,7 +403,7 @@ msgid "Coloured Coin Options"
 msgstr "Alternativ för färgade mynt"
 
 #: src/components/plotNFT/PlotNFTAbsorbRewards.tsx:168
-#: src/electron/main.tsx:195
+#: src/electron/main.tsx:194
 #: src/hooks/useAbsorbRewards.tsx:46
 msgid "Confirm"
 msgstr "Bekräfta"
@@ -448,7 +448,7 @@ msgstr "Anslut till andra peer-datorer"
 msgid "Connect to pool"
 msgstr "Anslut till poolen"
 
-#: src/electron/main.tsx:442
+#: src/electron/main.tsx:441
 msgid "Connect with us on Facebook"
 msgstr ""
 
@@ -478,7 +478,7 @@ msgstr "Anslutningsstatus:"
 msgid "Connections"
 msgstr "Anslutningar"
 
-#: src/electron/main.tsx:382
+#: src/electron/main.tsx:381
 msgid "Contribute on GitHub"
 msgstr "Delta på GitHub"
 
@@ -704,11 +704,11 @@ msgstr ""
 #~ msgid "Deleting the key will permanently remove the key from your computer, make sure you have backups. Are you sure you want to continue?"
 #~ msgstr "Om du tar bort nyckeln kommer den att permanent tas bort från datorn. Se till att du har säkerhetskopierat den. Är det säkert att du vill fortsätta?"
 
-#: src/electron/main.tsx:304
+#: src/electron/main.tsx:303
 msgid "Developer"
 msgstr "Utvecklare"
 
-#: src/electron/main.tsx:307
+#: src/electron/main.tsx:306
 msgid "Developer Tools"
 msgstr "Utvecklarverktyg"
 
@@ -775,7 +775,7 @@ msgstr "Drag och släpp din säkerhetskopierade fil"
 msgid "Drag and drop your recovery backup file"
 msgstr "Drag och släpp din säkerhetskopierade fil"
 
-#: src/electron/main.tsx:263
+#: src/electron/main.tsx:262
 msgid "Edit"
 msgstr "Redigera"
 
@@ -861,7 +861,7 @@ msgstr ""
 msgid "Failed to update passphrase: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:66
+#: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/wallet/coloured/WalletColoured.tsx:610
 #: src/components/wallet/standard/WalletStandard.tsx:525
 msgid "Farm"
@@ -909,7 +909,7 @@ msgstr "Publik nyckel för odlare:"
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
 msgstr "Odlare tjänar blockbelöningar och transaktionsavgifter genom att dedikera ledigt utrymme till nätverket för att hjälpa till att säkra transaktioner. Detta är vad din odling gör när du väl har lagt till en plott. <0>Läs mer</0>"
 
-#: src/components/farm/Farm.tsx:23
+#: src/components/farm/Farm.tsx:22
 #: src/components/farm/FarmerStatus.tsx:18
 #: src/components/farm/card/FarmCardStatus.tsx:62
 #: src/components/plot/PlotStatus.tsx:17
@@ -958,8 +958,8 @@ msgstr "Avgiftsbelopp"
 #~ msgid "Fees Puzzle Hash"
 #~ msgstr ""
 
-#: src/electron/main.tsx:255
-#: src/electron/main.tsx:509
+#: src/electron/main.tsx:254
+#: src/electron/main.tsx:508
 msgid "File"
 msgstr "Fil"
 
@@ -983,11 +983,11 @@ msgstr "Färdigt"
 #~ msgid "Follow on Twitter"
 #~ msgstr "Följ på Twitter"
 
-#: src/electron/main.tsx:426
+#: src/electron/main.tsx:425
 msgid "Follow us on Twitter"
 msgstr ""
 
-#: src/electron/main.tsx:366
+#: src/electron/main.tsx:365
 msgid "Frequently Asked Questions"
 msgstr "Vanliga frågor"
 
@@ -1004,7 +1004,7 @@ msgstr "Fullständig nod"
 #~ msgid "Full Node Status"
 #~ msgstr "Full Node Status"
 
-#: src/electron/main.tsx:332
+#: src/electron/main.tsx:331
 msgid "Full Screen"
 msgstr "Helskärm"
 
@@ -1054,7 +1054,7 @@ msgstr "Huvudhash"
 msgid "Height"
 msgstr "Höjd"
 
-#: src/electron/main.tsx:354
+#: src/electron/main.tsx:353
 msgid "Help"
 msgstr "Hjälp"
 
@@ -1171,15 +1171,15 @@ msgstr "Gå med i en pool och få konsekventa ROLLS-odlingsbelöningar. Genomsni
 msgid "Join a pool and get more consistent ROLLS farming rewards. Create a plot NFT and assign your new plots to a group."
 msgstr "Gå med i en pool och få mer konsekventa ROLLS-odlingsbelöningar. Skapa en plott-NFT och tilldela dina nya plottar till en grupp."
 
-#: src/electron/main.tsx:418
+#: src/electron/main.tsx:417
 msgid "Join our Discord Server"
 msgstr ""
 
-#: src/electron/main.tsx:458
+#: src/electron/main.tsx:457
 msgid "Join our Reddit Community"
 msgstr ""
 
-#: src/electron/main.tsx:450
+#: src/electron/main.tsx:449
 msgid "Join our group on Telegram"
 msgstr ""
 
@@ -1191,7 +1191,7 @@ msgstr "K-storlek"
 msgid "Keyring migration failed: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:72
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Nycklar"
 
@@ -1391,7 +1391,7 @@ msgid "Nickname"
 msgstr "Smeknamn"
 
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:192
+#: src/electron/main.tsx:191
 msgid "No"
 msgstr "Nej"
 
@@ -1557,11 +1557,11 @@ msgstr "Topphöjd"
 msgid "Peak Time"
 msgstr "Topptid"
 
-#: src/electron/main.tsx:472
+#: src/electron/main.tsx:471
 msgid "PecanRolls"
 msgstr "PecanRolls"
 
-#: src/electron/main.tsx:358
+#: src/electron/main.tsx:357
 msgid "PecanRolls Blockchain Wiki"
 msgstr "PecanRolls Blockchains wiki"
 
@@ -1780,8 +1780,8 @@ msgid "PlotNFT is transitioning to (target state). This can take a while. Please
 msgstr "PlotNFT håller på att byta status till (target state). Detta kan ta ett tag. Stäng inte programmet förrän detta är slutfört."
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
-msgid "Plots"
-msgstr "Plottar"
+#~ msgid "Plots"
+#~ msgstr "Plottar"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:22
 msgid "Plots Passed Filter"
@@ -2047,7 +2047,7 @@ msgstr "Uppdatera plottar"
 msgid "Relative Lock Height"
 msgstr "Relativ låshöjd"
 
-#: src/electron/main.tsx:374
+#: src/electron/main.tsx:373
 msgid "Release Notes"
 msgstr "Viktig information"
 
@@ -2069,7 +2069,7 @@ msgstr "Tar bort"
 msgid "Rename"
 msgstr "Byt namn"
 
-#: src/electron/main.tsx:393
+#: src/electron/main.tsx:392
 msgid "Report an Issue..."
 msgstr "Rapportera ett problem ..."
 
@@ -2217,7 +2217,7 @@ msgstr ""
 msgid "Setting a passphrase is strongly recommended to protect your keys. Are you sure you want to skip setting a passphrase?"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:79
+#: src/components/dashboard/DashboardSideBar.tsx:74
 #: src/components/settings/Settings.tsx:239
 msgid "Settings"
 msgstr ""
@@ -2269,7 +2269,7 @@ msgstr "Jämna ut dina ROLLS-odlarbelöningar genom att gå med i en pool."
 msgid "Something went wrong"
 msgstr "Något gick fel"
 
-#: src/electron/main.tsx:523
+#: src/electron/main.tsx:522
 msgid "Speech"
 msgstr "Tal"
 
@@ -2728,7 +2728,7 @@ msgstr "Värdet verkar högt"
 msgid "Verify Pool Details"
 msgstr "Verifiera poolinformation"
 
-#: src/electron/main.tsx:295
+#: src/electron/main.tsx:294
 msgid "View"
 msgstr "Visa"
 
@@ -2758,11 +2758,11 @@ msgstr "Visa väntande saldon"
 msgid "View pending balances..."
 msgstr "Visa väntande saldon..."
 
-#: src/electron/main.tsx:410
+#: src/electron/main.tsx:409
 msgid "Visit PecanRolls Website"
 msgstr ""
 
-#: src/electron/main.tsx:434
+#: src/electron/main.tsx:433
 msgid "Visit our YouTube Channel"
 msgstr ""
 
@@ -2876,7 +2876,7 @@ msgstr "Välkommen! Följande ord används för din plånboks säkerhetskopia. U
 msgid "When you receive the setup info packet from your admin, enter it below to complete your Rate Limited Wallet setup:"
 msgstr "När du fått konfigurationsinfopaketet av din administratör anger du det nedan för att slutföra konfigurationen av din spenderbegränsade plånbok:"
 
-#: src/electron/main.tsx:340
+#: src/electron/main.tsx:339
 msgid "Window"
 msgstr "Fönster"
 
@@ -2886,7 +2886,7 @@ msgstr "Utan avgifter"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:35
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:193
+#: src/electron/main.tsx:192
 msgid "Yes"
 msgstr "Ja"
 

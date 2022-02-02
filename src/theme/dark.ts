@@ -19,18 +19,3 @@ export default (locale: object) =>
     },
     locale,
   );
-
-  
-
-  // let theme = createTheme({
-  //   palette: {
-  //     primary: {
-  //       main: '#0052cc',
-  //     },
-  //     secondary: {
-  //       main: '#edf2ff',
-  //     },
-  //   },
-  // });
-  
-

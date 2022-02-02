@@ -16,7 +16,7 @@ export default function FullNodeCardPeakHeight() {
   return (
     <FarmCard
       loading={loading}
-      valueColor="textPrimary"
+      valueColor="secondary"
       title={<Trans>Peak Height</Trans>}
       value={<FormatLargeNumber value={value} />}
     />

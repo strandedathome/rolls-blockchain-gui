@@ -4,6 +4,7 @@ import FarmCard from '../../farm/card/FarmCard';
 import useWallet from '../../../hooks/useWallet';
 import useCurrencyCode from '../../../hooks/useCurrencyCode';
 import { pecan_to_rolls_string } from '../../../util/rolls';
+import RollsPalette from '../../../theme/RollsPaletteNew'
 
 type Props = {
   wallet_id: number;

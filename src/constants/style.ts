@@ -4,7 +4,7 @@ import RollsPalette from '../theme/RollsPaletteNew';
 
 export default makeStyles((theme: Theme) => ({
   root: {
-    background: 'linear-gradient(45deg, #171019 30%, #221825 90%)',
+    background: `linear-gradient(45deg, ${RollsPalette.rolls_darkest} 30%, ${RollsPalette.rolls_dark} 90%)`,
     height: '100%',
   },
   paper: {
@@ -15,7 +15,7 @@ export default makeStyles((theme: Theme) => ({
   },
   avatar: {
     marginTop: theme.spacing(8),
-    backgroundColor: theme.palette.secondary.main,
+    backgroundColor: theme.palette.secondary.dark,
   },
   form: {
     width: '100%', // Fix IE 11 issue.

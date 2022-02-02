@@ -130,7 +130,6 @@ if (!handleSquirrelEvent()) {
         height: 1200,
         minWidth: 500,
         minHeight: 500,
-        backgroundColor: `${RollsPalette.rolls_white}`,
         show: false,
         webPreferences: {
           preload: `${__dirname}/preload.js`,

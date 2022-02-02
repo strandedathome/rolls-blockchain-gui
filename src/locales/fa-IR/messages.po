@@ -52,8 +52,8 @@ msgstr ""
 msgid "ACTIONS"
 msgstr ""
 
-#: src/electron/main.tsx:475
-#: src/electron/main.tsx:562
+#: src/electron/main.tsx:474
+#: src/electron/main.tsx:561
 msgid "About PecanRolls Blockchain"
 msgstr "درباره بلاکچین چیـا"
 
@@ -174,7 +174,7 @@ msgstr "Are you sure you want to delete unconfirmed transactions?"
 msgid "Are you sure you want to disconnect?"
 msgstr "آیا از قطع ارتباط اطمینان دارید؟"
 
-#: src/electron/main.tsx:197
+#: src/electron/main.tsx:196
 msgid "Are you sure you want to quit? GUI Plotting and farming will stop."
 msgstr "مطمئنید که می‌خواهید خارج شوید؟ فرایند های پلات سازی و واسط گرافیکی مزرعه داری متوقف خواهند شد."
 
@@ -407,7 +407,7 @@ msgid "Coloured Coin Options"
 msgstr "Coloured Coin Options"
 
 #: src/components/plotNFT/PlotNFTAbsorbRewards.tsx:168
-#: src/electron/main.tsx:195
+#: src/electron/main.tsx:194
 #: src/hooks/useAbsorbRewards.tsx:46
 msgid "Confirm"
 msgstr "Confirm"
@@ -452,7 +452,7 @@ msgstr "اتصال به سایر همسان‌ ها"
 msgid "Connect to pool"
 msgstr "Connect to pool"
 
-#: src/electron/main.tsx:442
+#: src/electron/main.tsx:441
 msgid "Connect with us on Facebook"
 msgstr ""
 
@@ -482,7 +482,7 @@ msgstr "وضعیت اتصال:"
 msgid "Connections"
 msgstr "اتصال ها"
 
-#: src/electron/main.tsx:382
+#: src/electron/main.tsx:381
 msgid "Contribute on GitHub"
 msgstr "مشارکت در GitHub"
 
@@ -710,11 +710,11 @@ msgstr ""
 #~ msgid "Deleting the key will permanently remove the key from your computer, make sure you have backups. Are you sure you want to continue?"
 #~ msgstr "حذف کلید، آن را برای همیشه از روی کامپیوتر شما حذف می‌کند، مطمئن شوید که نسخه پشتیبان دارید. آیا مطمئنید که می‌خواهید ادامه دهید؟"
 
-#: src/electron/main.tsx:304
+#: src/electron/main.tsx:303
 msgid "Developer"
 msgstr "Developer"
 
-#: src/electron/main.tsx:307
+#: src/electron/main.tsx:306
 msgid "Developer Tools"
 msgstr "ابزارهای توسعه دهنده"
 
@@ -781,7 +781,7 @@ msgstr "Drag and drop your backup file"
 msgid "Drag and drop your recovery backup file"
 msgstr ""
 
-#: src/electron/main.tsx:263
+#: src/electron/main.tsx:262
 msgid "Edit"
 msgstr "Edit"
 
@@ -867,7 +867,7 @@ msgstr ""
 msgid "Failed to update passphrase: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:66
+#: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/wallet/coloured/WalletColoured.tsx:610
 #: src/components/wallet/standard/WalletStandard.tsx:525
 msgid "Farm"
@@ -915,7 +915,7 @@ msgstr "Farmer public key:"
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
 msgstr "مزرعه داران با در اختیار گذاشتن فضای خالی برای کمک در امن کردن معاملات شبکه، جایزه های بلوکی و کارمزد تراکنش کسب می‌کنند.وقتی پلاتی را اضافه کنید قرار می‌گیرد، مزرعه شما اینجا قرار می‌گیرد. <0>بیشتر بدانید</0>"
 
-#: src/components/farm/Farm.tsx:23
+#: src/components/farm/Farm.tsx:22
 #: src/components/farm/FarmerStatus.tsx:18
 #: src/components/farm/card/FarmCardStatus.tsx:62
 #: src/components/plot/PlotStatus.tsx:17
@@ -964,8 +964,8 @@ msgstr "مبلغ کارمزد ها"
 #~ msgid "Fees Puzzle Hash"
 #~ msgstr ""
 
-#: src/electron/main.tsx:255
-#: src/electron/main.tsx:509
+#: src/electron/main.tsx:254
+#: src/electron/main.tsx:508
 msgid "File"
 msgstr "File"
 
@@ -989,11 +989,11 @@ msgstr "Finished"
 #~ msgid "Follow on Twitter"
 #~ msgstr "Follow on Twitter"
 
-#: src/electron/main.tsx:426
+#: src/electron/main.tsx:425
 msgid "Follow us on Twitter"
 msgstr ""
 
-#: src/electron/main.tsx:366
+#: src/electron/main.tsx:365
 msgid "Frequently Asked Questions"
 msgstr "سوالات متداول"
 
@@ -1010,7 +1010,7 @@ msgstr "گره کامل"
 #~ msgid "Full Node Status"
 #~ msgstr "Full Node Status"
 
-#: src/electron/main.tsx:332
+#: src/electron/main.tsx:331
 msgid "Full Screen"
 msgstr "Full Screen"
 
@@ -1060,7 +1060,7 @@ msgstr "عنوان هش"
 msgid "Height"
 msgstr "Height"
 
-#: src/electron/main.tsx:354
+#: src/electron/main.tsx:353
 msgid "Help"
 msgstr "Help"
 
@@ -1177,15 +1177,15 @@ msgstr "Join a pool and get consistent ROLLS farming rewards. The average return
 msgid "Join a pool and get more consistent ROLLS farming rewards. Create a plot NFT and assign your new plots to a group."
 msgstr "Join a pool and get more consistent ROLLS farming rewards. Create a plot NFT and assign your new plots to a group."
 
-#: src/electron/main.tsx:418
+#: src/electron/main.tsx:417
 msgid "Join our Discord Server"
 msgstr ""
 
-#: src/electron/main.tsx:458
+#: src/electron/main.tsx:457
 msgid "Join our Reddit Community"
 msgstr ""
 
-#: src/electron/main.tsx:450
+#: src/electron/main.tsx:449
 msgid "Join our group on Telegram"
 msgstr ""
 
@@ -1197,7 +1197,7 @@ msgstr "مقدار حجم-K"
 msgid "Keyring migration failed: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:72
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Keys"
 
@@ -1397,7 +1397,7 @@ msgid "Nickname"
 msgstr "Nickname"
 
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:192
+#: src/electron/main.tsx:191
 msgid "No"
 msgstr "No"
 
@@ -1563,11 +1563,11 @@ msgstr "Peak Height"
 msgid "Peak Time"
 msgstr "Peak Time"
 
-#: src/electron/main.tsx:472
+#: src/electron/main.tsx:471
 msgid "PecanRolls"
 msgstr "چیـا"
 
-#: src/electron/main.tsx:358
+#: src/electron/main.tsx:357
 msgid "PecanRolls Blockchain Wiki"
 msgstr "ویکی زنجیره بلوکی چیـا"
 
@@ -1786,8 +1786,8 @@ msgid "PlotNFT is transitioning to (target state). This can take a while. Please
 msgstr "PlotNFT is transitioning to (target state). This can take a while. Please do not close the application until this is finalized."
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
-msgid "Plots"
-msgstr "Plots"
+#~ msgid "Plots"
+#~ msgstr "Plots"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:22
 msgid "Plots Passed Filter"
@@ -2053,7 +2053,7 @@ msgstr "تازه سازی پلات ها"
 msgid "Relative Lock Height"
 msgstr "Relative Lock Height"
 
-#: src/electron/main.tsx:374
+#: src/electron/main.tsx:373
 msgid "Release Notes"
 msgstr "یادداشت‌های انتشار"
 
@@ -2075,7 +2075,7 @@ msgstr "Removing"
 msgid "Rename"
 msgstr "تغییر نام"
 
-#: src/electron/main.tsx:393
+#: src/electron/main.tsx:392
 msgid "Report an Issue..."
 msgstr "گزارش یک مشکل یا خطا..."
 
@@ -2223,7 +2223,7 @@ msgstr ""
 msgid "Setting a passphrase is strongly recommended to protect your keys. Are you sure you want to skip setting a passphrase?"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:79
+#: src/components/dashboard/DashboardSideBar.tsx:74
 #: src/components/settings/Settings.tsx:239
 msgid "Settings"
 msgstr ""
@@ -2275,7 +2275,7 @@ msgstr "Smooth out your ROLLS farming rewards by joining a pool."
 msgid "Something went wrong"
 msgstr "Something went wrong"
 
-#: src/electron/main.tsx:523
+#: src/electron/main.tsx:522
 msgid "Speech"
 msgstr "Speech"
 
@@ -2736,7 +2736,7 @@ msgstr "Value seems high"
 msgid "Verify Pool Details"
 msgstr "Verify Pool Details"
 
-#: src/electron/main.tsx:295
+#: src/electron/main.tsx:294
 msgid "View"
 msgstr "View"
 
@@ -2766,11 +2766,11 @@ msgstr "مشاهده موجودی های در حال انتظار"
 msgid "View pending balances..."
 msgstr "مشاهده موجودی های در انتظار..."
 
-#: src/electron/main.tsx:410
+#: src/electron/main.tsx:409
 msgid "Visit PecanRolls Website"
 msgstr ""
 
-#: src/electron/main.tsx:434
+#: src/electron/main.tsx:433
 msgid "Visit our YouTube Channel"
 msgstr ""
 
@@ -2886,7 +2886,7 @@ msgstr ""
 msgid "When you receive the setup info packet from your admin, enter it below to complete your Rate Limited Wallet setup:"
 msgstr "هنگامی که بسته اطلاعات راه‌اندازی را از ادمین خود دریافت می‌کنید، آن را در زیر وارد کنید تا تنظیمات «کیف پول با نرخ محدود» خود را تکمیل کنید:"
 
-#: src/electron/main.tsx:340
+#: src/electron/main.tsx:339
 msgid "Window"
 msgstr "پنجره"
 
@@ -2896,7 +2896,7 @@ msgstr "بدونه کارمزد"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:35
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:193
+#: src/electron/main.tsx:192
 msgid "Yes"
 msgstr "بله"
 

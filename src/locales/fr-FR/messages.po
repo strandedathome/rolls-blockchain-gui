@@ -50,8 +50,8 @@ msgstr "Le moissonneur est un service qui tourne sur une machine qui stocke des 
 msgid "ACTIONS"
 msgstr ""
 
-#: src/electron/main.tsx:475
-#: src/electron/main.tsx:562
+#: src/electron/main.tsx:474
+#: src/electron/main.tsx:561
 msgid "About PecanRolls Blockchain"
 msgstr "À propos de la blockchain PecanRolls"
 
@@ -172,7 +172,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer ces transactions non confirmées ?"
 msgid "Are you sure you want to disconnect?"
 msgstr "Êtes-vous sûr de vouloir vous déconnecter ?"
 
-#: src/electron/main.tsx:197
+#: src/electron/main.tsx:196
 msgid "Are you sure you want to quit? GUI Plotting and farming will stop."
 msgstr "Êtes-vous sûr de vouloir quitter ? Le traçage et la culture vont s'arrêter."
 
@@ -403,7 +403,7 @@ msgid "Coloured Coin Options"
 msgstr "Option de Coloured Coin"
 
 #: src/components/plotNFT/PlotNFTAbsorbRewards.tsx:168
-#: src/electron/main.tsx:195
+#: src/electron/main.tsx:194
 #: src/hooks/useAbsorbRewards.tsx:46
 msgid "Confirm"
 msgstr "Confirmer"
@@ -448,7 +448,7 @@ msgstr "Se connecter à d'autres pairs"
 msgid "Connect to pool"
 msgstr "Se connecter au pool"
 
-#: src/electron/main.tsx:442
+#: src/electron/main.tsx:441
 msgid "Connect with us on Facebook"
 msgstr ""
 
@@ -478,7 +478,7 @@ msgstr "Statut de la connexion :"
 msgid "Connections"
 msgstr "Réseau"
 
-#: src/electron/main.tsx:382
+#: src/electron/main.tsx:381
 msgid "Contribute on GitHub"
 msgstr "Contribuer sur GitHub"
 
@@ -704,11 +704,11 @@ msgstr ""
 #~ msgid "Deleting the key will permanently remove the key from your computer, make sure you have backups. Are you sure you want to continue?"
 #~ msgstr "Supprimer la clé va supprimer définitivement la clé de votre ordinateur, assurez vous d'avoir une sauvegarde. Êtes-vous sur de vouloir continuer?"
 
-#: src/electron/main.tsx:304
+#: src/electron/main.tsx:303
 msgid "Developer"
 msgstr "Développeur"
 
-#: src/electron/main.tsx:307
+#: src/electron/main.tsx:306
 msgid "Developer Tools"
 msgstr "Outils Développeur"
 
@@ -775,7 +775,7 @@ msgstr "Glisser-déposer votre fichier de sauvegarde"
 msgid "Drag and drop your recovery backup file"
 msgstr "Glisser-déposer votre fichier de sauvegarde de récupération"
 
-#: src/electron/main.tsx:263
+#: src/electron/main.tsx:262
 msgid "Edit"
 msgstr "Éditer"
 
@@ -861,7 +861,7 @@ msgstr ""
 msgid "Failed to update passphrase: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:66
+#: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/wallet/coloured/WalletColoured.tsx:610
 #: src/components/wallet/standard/WalletStandard.tsx:525
 msgid "Farm"
@@ -909,7 +909,7 @@ msgstr "Clé publique du farmer :"
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
 msgstr "Les fermiers gagnent des blocs de récompense et des frais de transaction en engageant de l'espace libre dans le réseau pour aider à sécuriser les transactions. C'est là où se trouvera votre ferme une fois que vous aurez ajouté une parcelle. <0>En savoir plus</0>"
 
-#: src/components/farm/Farm.tsx:23
+#: src/components/farm/Farm.tsx:22
 #: src/components/farm/FarmerStatus.tsx:18
 #: src/components/farm/card/FarmCardStatus.tsx:62
 #: src/components/plot/PlotStatus.tsx:17
@@ -958,8 +958,8 @@ msgstr "Montant des frais"
 #~ msgid "Fees Puzzle Hash"
 #~ msgstr ""
 
-#: src/electron/main.tsx:255
-#: src/electron/main.tsx:509
+#: src/electron/main.tsx:254
+#: src/electron/main.tsx:508
 msgid "File"
 msgstr "Fichier"
 
@@ -983,11 +983,11 @@ msgstr "Terminé"
 #~ msgid "Follow on Twitter"
 #~ msgstr "Suivez-nous sur Twitter"
 
-#: src/electron/main.tsx:426
+#: src/electron/main.tsx:425
 msgid "Follow us on Twitter"
 msgstr ""
 
-#: src/electron/main.tsx:366
+#: src/electron/main.tsx:365
 msgid "Frequently Asked Questions"
 msgstr "Question fréquentes"
 
@@ -1004,7 +1004,7 @@ msgstr "Full Node"
 #~ msgid "Full Node Status"
 #~ msgstr "Full Node Status"
 
-#: src/electron/main.tsx:332
+#: src/electron/main.tsx:331
 msgid "Full Screen"
 msgstr "Plein écran"
 
@@ -1054,7 +1054,7 @@ msgstr "Hash de l'en-tête"
 msgid "Height"
 msgstr "Hauteur"
 
-#: src/electron/main.tsx:354
+#: src/electron/main.tsx:353
 msgid "Help"
 msgstr "Aide"
 
@@ -1171,15 +1171,15 @@ msgstr "Rejoignez un pool et obtenez des récompenses de culture ROLLS substanti
 msgid "Join a pool and get more consistent ROLLS farming rewards. Create a plot NFT and assign your new plots to a group."
 msgstr "Rejoignez un pool et obtenez des récompenses de culture ROLLS substantielles. Créez une parcelle NFT et affectez vos nouvelles parcelles à un groupe."
 
-#: src/electron/main.tsx:418
+#: src/electron/main.tsx:417
 msgid "Join our Discord Server"
 msgstr ""
 
-#: src/electron/main.tsx:458
+#: src/electron/main.tsx:457
 msgid "Join our Reddit Community"
 msgstr ""
 
-#: src/electron/main.tsx:450
+#: src/electron/main.tsx:449
 msgid "Join our group on Telegram"
 msgstr ""
 
@@ -1191,7 +1191,7 @@ msgstr "Taille-K"
 msgid "Keyring migration failed: {error}"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:72
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Clés"
 
@@ -1391,7 +1391,7 @@ msgid "Nickname"
 msgstr "Surnom"
 
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:192
+#: src/electron/main.tsx:191
 msgid "No"
 msgstr "Non"
 
@@ -1557,11 +1557,11 @@ msgstr "Pic Hauteur"
 msgid "Peak Time"
 msgstr "Pic Temps"
 
-#: src/electron/main.tsx:472
+#: src/electron/main.tsx:471
 msgid "PecanRolls"
 msgstr "PecanRolls"
 
-#: src/electron/main.tsx:358
+#: src/electron/main.tsx:357
 msgid "PecanRolls Blockchain Wiki"
 msgstr "Wiki de la PecanRolls Blockchain"
 
@@ -1780,8 +1780,8 @@ msgid "PlotNFT is transitioning to (target state). This can take a while. Please
 msgstr "Le NFT de parcelle est en cours de transition vers (target state). Cela peut prendre un certain temps. Veuillez ne pas fermer l'application avant la finalisation."
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
-msgid "Plots"
-msgstr "Parcelles"
+#~ msgid "Plots"
+#~ msgstr "Parcelles"
 
 #: src/components/farm/FarmLastAttemptedProof.tsx:22
 msgid "Plots Passed Filter"
@@ -2047,7 +2047,7 @@ msgstr "Actualiser les parcelles"
 msgid "Relative Lock Height"
 msgstr "Hauteur relative de verrouillage"
 
-#: src/electron/main.tsx:374
+#: src/electron/main.tsx:373
 msgid "Release Notes"
 msgstr "Release Notes"
 
@@ -2069,7 +2069,7 @@ msgstr "Suppression"
 msgid "Rename"
 msgstr "Renommer"
 
-#: src/electron/main.tsx:393
+#: src/electron/main.tsx:392
 msgid "Report an Issue..."
 msgstr "Remonter un problème..."
 
@@ -2217,7 +2217,7 @@ msgstr ""
 msgid "Setting a passphrase is strongly recommended to protect your keys. Are you sure you want to skip setting a passphrase?"
 msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:79
+#: src/components/dashboard/DashboardSideBar.tsx:74
 #: src/components/settings/Settings.tsx:239
 msgid "Settings"
 msgstr ""
@@ -2269,7 +2269,7 @@ msgstr "Aplanissez le rythme de vos récoltes ROLLS en rejoignant un pool."
 msgid "Something went wrong"
 msgstr "Un problème est survenu"
 
-#: src/electron/main.tsx:523
+#: src/electron/main.tsx:522
 msgid "Speech"
 msgstr "Dicter"
 
@@ -2728,7 +2728,7 @@ msgstr "La valeur semble élevée"
 msgid "Verify Pool Details"
 msgstr "Vérifier les détails du pool"
 
-#: src/electron/main.tsx:295
+#: src/electron/main.tsx:294
 msgid "View"
 msgstr "Voir"
 
@@ -2758,11 +2758,11 @@ msgstr "Voir le solde en attente"
 msgid "View pending balances..."
 msgstr "Voir le solde en attente..."
 
-#: src/electron/main.tsx:410
+#: src/electron/main.tsx:409
 msgid "Visit PecanRolls Website"
 msgstr ""
 
-#: src/electron/main.tsx:434
+#: src/electron/main.tsx:433
 msgid "Visit our YouTube Channel"
 msgstr ""
 
@@ -2876,7 +2876,7 @@ msgstr "Bienvenue ! Les mots suivants sont utilisés pour la sauvegarde de votre
 msgid "When you receive the setup info packet from your admin, enter it below to complete your Rate Limited Wallet setup:"
 msgstr "Lorsque vous recevez le paquet d'informations de configuration de votre administrateur, saisissez-le ci-dessous pour terminer la configuration de votre portefeuille à débit limité :"
 
-#: src/electron/main.tsx:340
+#: src/electron/main.tsx:339
 msgid "Window"
 msgstr "Fenêtre"
 
@@ -2886,7 +2886,7 @@ msgstr "Sans frais"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:35
 #: src/components/trading/TradingOverview.jsx:209
-#: src/electron/main.tsx:193
+#: src/electron/main.tsx:192
 msgid "Yes"
 msgstr "Oui"
 

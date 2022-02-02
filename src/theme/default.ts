@@ -7,7 +7,7 @@ export default {
       contrastText: `${RollsPalette.rolls_white}`,
     },
     secondary: {
-      main: '#000000',
+      main: `${RollsPalette.rolls_white}`,
       contrastText: `${RollsPalette.rolls_white}`,
     },
     danger: {

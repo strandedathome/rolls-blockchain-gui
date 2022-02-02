@@ -3,6 +3,7 @@ import { Trans } from '@lingui/macro';
 import { useSelector } from 'react-redux';
 import FarmCard from '../../farm/card/FarmCard';
 import type { RootState } from '../../../modules/rootReducer';
+import RollsPalette from '../../../theme/RollsPaletteNew'
 
 export default function FullNodeCardConnectionStatus() {
   const connected = useSelector(
